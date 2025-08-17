@@ -1,0 +1,4 @@
+[submodule "common/Pandemonium-Log"]
+	path = common/Pandemonium-Log
+	url = https://github.com/Alpasyon007/Pandemonium-Log.git
+	branch = master
